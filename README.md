@@ -1,0 +1,1 @@
+Tool/File dump for the group, most of the stuff here is quite specific/unfinished and most code here is old/stolen/modified so don't ask me what it does or how it works. If something here is useful for you, feel free to use it, I guess.
